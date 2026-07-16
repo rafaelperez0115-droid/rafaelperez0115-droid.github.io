@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.rafaelperez0115_droid.twa",
-        "sha256_cert_fingerprints": ["26:18:61:DF:D3:0E:7F:27:68:A4:E9:7A:4E:16:5C:7E:E0:4B:AD:04:41:B8:2E:DD:D5:48:1B:9D:67:3B:D8:CD"]
+        "sha256_cert_fingerprints": ["37:DC:26:3C:8A:86:D6:B8:76:67:FB:B0:C8:AC:B8:47:C7:36:41:42:81:DA:BB:E1:E1:48:1E:0A:2E:F0:3C:CF"]
       }
     }]
